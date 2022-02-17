@@ -1,2 +1,2 @@
-# trabalho_html_faculdade
-Pagina de internet  sobre  o assunto  tecnologia.
+# Criação de uma pagina de Internet
+Este trabalho foi elaborado durante o inicio da faculdade de Análise e desenvolvimento de sistemas, com um intiuto de criar uma pagina com um conteúdo dinamico onde poderiamos aplicar imagens, video e uma descrição em cada, lincado a algo veridico.
