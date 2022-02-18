@@ -1,2 +1,2 @@
 # Criação de uma pagina de Internet
-Este trabalho foi elaborado durante o inicio da faculdade de Análise e desenvolvimento de sistemas, com um intiuto de criar uma pagina com um conteúdo dinamico onde poderiamos aplicar imagens, video e uma descrição em cada, lincado a algo veridico.
+Este trabalho foi elaborado durante o início da faculdade de Análise e desenvolvimento de sistemas, com um intuito de criar uma página com um conteúdo dinâmico onde poderiamos aplicar imagens, vídeo e uma descrição em cada, lincado a algo verídico.
