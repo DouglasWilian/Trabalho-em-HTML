@@ -6,7 +6,10 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: #2a2525;    
+    background-color: #2a2525;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;    
 }
 h1{
     text-align: center;
@@ -17,15 +20,12 @@ h1{
 }
 main{
     display: flex;
-    align-items: center center;          
+    flex: 1 0 auto;          
 }
-.conteudo{
-    display: flex;
-    flex-grow: 1;
+.conteudo{    
     align-content: center;
     flex-direction: column;
-    margin: 20px;
-    
+    margin: 20px;    
 }
 .title{
     margin: 20px;    
@@ -52,13 +52,12 @@ iframe{
     width: 460px;
     font-size: 15px;
 }
-
 footer{
+    flex-shrink: 0;
     background-color: #272323;
     font-size: 10px;
-    width: 100%;
-    height: 100px;
-    position: absolute;     
+    padding: 10px;
+    text-align: left;         
 }
 h2{
     font-family: lato;
